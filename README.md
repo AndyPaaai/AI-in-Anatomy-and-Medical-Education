@@ -12,18 +12,6 @@ Drawing on a Scopus-based dataset of **598 articles and reviews published betwee
 2. Thematic and geographic structure
 3. Bibliometric correlates of visibility
 
-## Summary of Results
-
-The primary findings of the study demonstrate the following:
-*   **Rapid Expansion:** The literature showed marked growth in recent years (especially from 2021 onwards), with original articles consistently outnumbering reviews, indicating an emerging area with fluid conceptual boundaries.
-*   **Geographic Concentration:** Publication leadership was concentrated in high-income countries (65.2% of documents), with the United States, China, and the United Kingdom being the most productive. The country co-authorship network reveals that the US, UK, Germany, and Italy function as major collaborative hubs.
-*   **Source Structure:** The most productive source journals are *Anatomical Sciences Education*, *Clinical Anatomy*, and *BMC Medical Education*, reflecting the interdisciplinary nature of the field.
-*   **Thematic Clusters:** Keyword co-occurrence analysis revealed a thematic structure centered on:
-    *   **Educational core:** Anatomy, medical education, learning, teaching.
-    *   **Simulation domain:** Virtual reality, surgical training.
-    *   **Technical/Imaging domain:** Machine learning, deep learning, image segmentation, generative AI.
-*   **Citation Visibility Drivers:** An exploratory multivariable analysis demonstrated that single-country publications have significantly lower citation visibility compared to internationally collaborative publications. The number of authors was positively associated with citations, while document type (review vs. article) and open-access status were not statistically significant predictors.
-
 ---
 
 ## Repository Contents
